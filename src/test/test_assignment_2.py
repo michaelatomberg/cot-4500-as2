@@ -1,3 +1,5 @@
+# Running this test code will provide the output needed for checking the answers to the five questions
+
 import numpy as np
 import math
 
